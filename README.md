@@ -1,4 +1,5 @@
-# Gaze Tracking
+# A Simple Webcam-based Python Eye Tracker based on Gaze Tracking
+# Based on github.com/antoinelame/GazeTracking
 
 ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)
 ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
